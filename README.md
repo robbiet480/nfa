@@ -1,8 +1,8 @@
-# nfa.go
+# nfa
 A Go command line app to send notifications to [Notifications for Android TV](https://play.google.com/store/apps/details?id=de.cyberdream.androidtv.notifications.google&hl=en) / [Notifications for Fire TV](https://play.google.com/store/apps/details?id=de.cyberdream.firenotifications.google&hl=en)
 
 # Instructions
-1. `go get github.com/robbiet480/nfa.go`
+1. `go get github.com/robbiet480/nfa`
 
 # Contributing
 1. Fork
