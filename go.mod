@@ -3,7 +3,6 @@ module github.com/petero-dk/nfa
 go 1.17
 
 require (
-	github.com/robbiet480/nfa v0.0.0-20170416082817-c854705f8d72
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/viper v1.8.1
 )
