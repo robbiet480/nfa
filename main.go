@@ -1,6 +1,6 @@
 package main
 
-import "github.com/robbiet480/nfa/cmd"
+import "github.com/petero-dk/nfa/cmd"
 
 func main() {
 	cmd.Execute()
